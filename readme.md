@@ -1,11 +1,11 @@
 # Sintaxis-y-Semantica-de-los-Lenguajes
 
-K2102
+• K2102
 
-2025 
+• 2025 
 
-208.638-4
+• 208.638-4
 
-Preinsperger
+• Preinsperger
 
-Ivan
+• Ivan
